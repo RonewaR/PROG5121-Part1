@@ -1,3 +1,4 @@
+//Added JUnit tests for Message validation, hashing, and messaging functions 
 import org.junit.Test;
 
 import static org.junit.Assert.*;
