@@ -1,3 +1,4 @@
+//Added Message system with validation, hashing, and JSON storage
 import java.util.Random;
 
 public class Message {
