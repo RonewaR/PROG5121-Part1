@@ -9,7 +9,7 @@ public class LoginTest {
         assertTrue(login.checkUserName());
     }
 
-    @Test
+    @Test 
     public void testUsernameIncorrect() {
         Login login = new Login("kyle123", "Password1!", "+27831234567");
         assertFalse(login.checkUserName());
