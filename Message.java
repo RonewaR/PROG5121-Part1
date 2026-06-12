@@ -9,7 +9,7 @@ public class Message {
     private String recipient;
     private String message;
 
-    private static int totalMessages = 0;
+    private static int totalMessages = 0; 
 
     // ========================= 
     // CONSTRUCTOR
