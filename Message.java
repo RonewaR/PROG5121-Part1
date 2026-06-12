@@ -11,7 +11,7 @@ public class Message {
 
     private static int totalMessages = 0;
 
-    // =========================
+    // ========================= 
     // CONSTRUCTOR
     // =========================
     public Message(int messageNumber, String recipient, String message) {
